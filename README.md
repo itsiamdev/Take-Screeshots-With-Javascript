@@ -4,7 +4,7 @@ A simple and powerful web application that enables you to capture screenshots of
 
 ## Demo
 
-Experience it live: [https://iam269.github.io/Take-Screeshots-With-Javascript/](https://iam269.github.io/Take-Screeshots-With-Javascript/) 🌐
+Experience it live: [https://itsiamdev.github.io/Take-Screeshots-With-Javascript/](https://itsiamdev.github.io/Take-Screeshots-With-Javascript/) 🌐
 
 ## Features
 
